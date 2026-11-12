@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="WEBNIX STUDIO Placemark Cleaner app icon">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b2044"/><stop offset="0.54" stop-color="#14285b"/><stop offset="1" stop-color="#371970"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4fe8fe"/><stop offset=".52" stop-color="#7281ff"/><stop offset="1" stop-color="#fc5ace"/></linearGradient>
+  <linearGradient id="pin" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#ffe783"/><stop offset="1" stop-color="#ffb000"/></linearGradient>
+  <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#19d6f3"/><stop offset="1" stop-color="#8f5afe"/></linearGradient>
+</defs>
+<rect x="13" y="13" width="486" height="486" rx="112" fill="url(#bg)" stroke="url(#edge)" stroke-width="16"/>
+<g opacity=".18" stroke="#85aaf1" stroke-width="3" fill="none"><path d="M62 170L173 121l116 74 138-75M55 264l113-46 112 73 167-68M74 339l129-49 132 83 105-31"/><path d="M155 66l26 374M327 59l20 392"/></g>
+<path d="M105 115l33 60 30-41 30 41 32-60" fill="none" stroke="#eaf8ff" stroke-width="19" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M295 126c-48 0-86 38-86 86 0 65 86 139 86 139s86-74 86-139c0-48-38-86-86-86Z" fill="url(#pin)" stroke="#ffefaa" stroke-width="8"/>
+<circle cx="295" cy="213" r="32" fill="#12335a" opacity=".93"/>
+<path d="M198 258l193-93" stroke="#ec5be5" stroke-width="22" stroke-linecap="round"/>
+<path d="M198 258l193-93" stroke="#fcffff" stroke-width="5" stroke-linecap="round" opacity=".9"/>
+<rect x="98" y="349" width="316" height="96" rx="30" fill="#092341" stroke="url(#chip)" stroke-width="5"/>
+<text x="256" y="414" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="66" font-weight="900" fill="#ffffff">93</text>
+<circle cx="412" cy="104" r="23" fill="#27dcae"/><path d="M400 102l9 9 17-19" fill="none" stroke="#073650" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

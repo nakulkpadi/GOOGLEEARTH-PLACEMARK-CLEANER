@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nakulkpadi.github.io/GOOGLEEARTH-PLACEMARK-CLEANER/sitemap.xml
